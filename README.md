@@ -31,6 +31,7 @@ Example Query: { "query":"\"To protect your rights\"" }
 Quotes are used to specify phrases. Need to escape quotes in JSON structure
 
 ## Swagger interface
+After Application startup, interface can be checked at below URL.
 
-[Interface URL](http://localhost:8080/app/swagger-ui.html)
+Interface URL: http://localhost:8080/swagger-ui.html
 
